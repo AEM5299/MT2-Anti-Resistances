@@ -1,0 +1,7 @@
+TOOLTIP_APPLY_ATTBONUS_SWORD	ъся гАощгз гАсМщМ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_TWOHAND	ъся ощгз сМщ гАМоМД +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FAN	ъся гАощгз гАЦяФмМ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DAGGER	ъся гАощгз гАнДляМ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BELL	ъся гАощгз гАлясМ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOW	ъся ЦчгФЦи гАсЕЦ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_CLAW	ъся гАощгз гАЦнАхМ +%d%%	SA
